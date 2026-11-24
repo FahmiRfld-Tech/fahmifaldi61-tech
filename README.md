@@ -1,4 +1,4 @@
-# Muhammad Fahmi Rifaldi
+# Fahmi Rifaldi
 
 **Software Developer | Applied AI & Web Engineering**
 
