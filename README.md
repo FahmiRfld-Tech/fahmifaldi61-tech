@@ -14,13 +14,13 @@ A bilingual tourism assistant that helps travelers discover destinations, ask tr
 - **Engineering highlights:** Verified-document retrieval, source-linked answers, voice transcription, session management, rate limiting, and browser security controls.
 - **Stack:** JavaScript · TypeScript · Node.js · Deno · Supabase · PostgreSQL · OpenAI API · Vercel
 
-[Repository](https://github.com/fahmifaldi61-tech/wisatabatam) · [Backend source](https://github.com/fahmifaldi61-tech/wisatabatam/tree/chore/supabase-source-and-integration-docs/supabase/functions/chat) · [Architecture documentation](https://github.com/fahmifaldi61-tech/wisatabatam/blob/chore/supabase-source-and-integration-docs/docs/ARCHITECTURE.md)
+[Project website](https://batamtes.vercel.app/) · [Repository](https://github.com/fahmifaldi61-tech/wisatabatam) · [Backend source](https://github.com/fahmifaldi61-tech/wisatabatam/tree/b2cc01719f4d0698c04296ebd846aba5234a0fec/supabase/functions/chat) · [Architecture documentation](https://github.com/fahmifaldi61-tech/wisatabatam/blob/b2cc01719f4d0698c04296ebd846aba5234a0fec/docs/ARCHITECTURE.md)
 
 ## Selected Work
 
 | Project | Focus | Explore |
 | --- | --- | --- |
-| **Batam RAG Backend** | Earlier Django REST prototype implementing ChromaDB similarity search, FastEmbed embeddings, cached conversation history, and Groq/Gemini fallback. | [Source code](https://github.com/fahmifaldi61-tech/wisatabatam-backend.) |
+| **Batam RAG Backend** | Retired Django REST prototype implementing ChromaDB similarity search, FastEmbed embeddings, cached conversation history, and Groq/Gemini fallback. | [Source code](https://github.com/fahmifaldi61-tech/wisatabatam-backend.) |
 | **Sahabat Qur'an** | Interactive Qur'an memorization project exploring spatial learning and gamification. Source code is not yet published in my repository. | [Project demo](https://sahabatquran-phi.vercel.app/) · [Documentation](https://github.com/fahmifaldi61-tech/sahabatquran) |
 | **Kampung Adat Cireundeu** | External website showcase focused on cultural heritage. | [Visit website](https://kampungcireundeu.kii.lat/) |
 
